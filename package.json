@@ -1,1 +1,15 @@
-
+{
+  "name": "smart-money-radar",
+  "version": "1.0.0",
+  "description": "Solana smart money wallet tracker",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
